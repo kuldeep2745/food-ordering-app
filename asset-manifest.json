@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/food-ordering-app/static/js/main.37f83fe7.js",
+    "static/media/pepsi.jpeg": "/food-ordering-app/static/media/pepsi.6efe5ca933f40734c898.jpeg",
+    "static/media/burger.jpeg": "/food-ordering-app/static/media/burger.a264aebc643407f64b08.jpeg",
+    "static/media/fries.jpeg": "/food-ordering-app/static/media/fries.f7959aff9a151e6e64aa.jpeg",
+    "static/media/coke.jpeg": "/food-ordering-app/static/media/coke.100662047528b053f85e.jpeg",
+    "index.html": "/food-ordering-app/index.html",
+    "main.37f83fe7.js.map": "/food-ordering-app/static/js/main.37f83fe7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.37f83fe7.js"
+  ]
+}
